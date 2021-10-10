@@ -1,7 +1,6 @@
 """
 Created on Mon Sep 13 20:32:16 2021
 # requests==2.18.4: pip install requests==2.18.4
-@author: danie
 """
 
 import datetime
